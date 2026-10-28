@@ -21,7 +21,7 @@ Built by a team of six, which I lead, as our INSY7315 Work Integrated Learning p
 
 ## My role
 
-I lead the team and authored 125 of the 227 commits on the project's main branch, working across the client, the API and the database. The main pieces:
+I lead the team and work across the client, the API and the database. The main pieces:
 
 **Leading the team**
 - Planned the project, assigned work across the team of six and made the key technical and design decisions.
