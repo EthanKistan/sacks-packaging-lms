@@ -27,6 +27,9 @@ I lead the team and authored 125 of the 227 commits on the project's main branch
 - Planned the project, assigned work across the team of six and made the key technical and design decisions.
 - Worked with the client's staff to rework how they plan and dispatch, and turned that into the Distribution Plan and Logistics board.
 
+**Core screens**
+- Built the Distribution Plan, Logistics and Messaging screens, the ones staff use every day to plan orders, dispatch trucks and talk to each other.
+
 **Live fleet tracking**
 - Connected the tracking screen to the Cartrack API so the truck list and map are built entirely from live data, polled every 5 seconds.
 - Replaced the illustrated map with a real map (first OpenStreetMap, now Google Maps), with selectable trucks, a detail panel and a depot marker, kept to southern Africa with cached tiles so it opens fast.
